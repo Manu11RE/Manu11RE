@@ -10,10 +10,19 @@
 
 ## About me
 
-- ⭐ Experience; Data analytics with Python and data extraction with SAP
+- ⭐ Experience: Data analytics with Python and data extraction with SAP
 - 📲 Technique: Skills in math, statistics, machine learning, and AI.
 - 🎥 Communication: Oral, written, adapted to the audience.
 - ✨ Passion: Motivation and professional growth.
 - 📗 Teamwork: Collaboration with people from different disciplines.
 - 🧑‍🏫 Problem solving: Critical thinking, analysis, and abstraction.
 <br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Manu11RE">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manu11RE&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manu11RE&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
