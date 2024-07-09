@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, I'm HimekoDevs 👋</h1>
+<h1 align="center">Hi, I'm HimekoDev 👋</h1>
 </div>
 <img src="https://i.imgur.com/MWakEaPh.png">
 
